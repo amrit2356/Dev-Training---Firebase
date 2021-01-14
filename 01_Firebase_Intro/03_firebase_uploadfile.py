@@ -16,7 +16,9 @@ except:
 
 else:
     print("Successfully Signed In")
+    
     # Storage
+    # Challenge 1: Uploading a File to Storage to Firebase's Storage.
     storage = firebase.storage()
     filename = input("Enter the filename you want to import.")
     cloudfilename = input("Enter the filename you want to have in cloud")
