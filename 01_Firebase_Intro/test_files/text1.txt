@@ -1,0 +1,5 @@
+This is a test file to check whether the file has been uploaded on the Firebase Storage.
+If you can see this file, then it has successfully reached its final destination.
+
+:)
+
